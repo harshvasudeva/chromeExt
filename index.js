@@ -110,4 +110,18 @@ greetUser("Welcome","Harsh","🎭")
 let firstCard = getFirst([10,15,20])
 console.log(firstCard) */
 
-//23902732911
+//practice 
+
+/* let myCourses = ["Css", "JS" , "UI/UX"]
+
+function course(arr){
+    for(let i=0; i < arr.length; i++){
+        console.log(arr[i])
+    }
+}
+course(myCourses) */
+
+/* localStorage.setItem("credits", "100")
+let credits =  localStorage.getItem("credits")
+console.log(credits) */
+
